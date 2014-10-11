@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Yichen Liu
+title : Peace was never an option
 tagline: Hello! / 你好! / Hola!
 author :
   name : Yichen Liu
   email : arsenalliu123@gmail.com
-  github : arsenalliu
+  github : arsenalliu123
   twitter : rivo_boondock
 
 # The production_url is only used when full-domain names are needed
