@@ -12,14 +12,15 @@ tagline: 刘逸尘
 
 Movie recommendation system for [douban](http://movie.douban.com) users, adopting [ALS-WS algorithm](http://www.hpl.hp.com/personal/Robert_Schreiber/papers/2008%20AAIM%20Netflix/netflix_aaim08(submitted).pdf).
 
+Code on [github](https://github.com/arsenalliu123/cineaste_website)
 
-+ ###[douban-scrapy(...)](http://sda)### 
++ ###[douban-scrapy](https://github.com/arsenalliu123/douban-scrapy)### 
 
-Crawl application to crawl data from douban.
+Based on scrapy, it is a small crawl application to crawl data from douban.
 
-+ ###[air flow management(...)](http://sda)###
++ ###[als-ython](https://github.com/arsenalliu123/als-python)###
 
-Air plane schedule system using differential evolution.
+Alternative least square algorithm on Python.
 
 ---
 
@@ -36,4 +37,4 @@ Tencent Technology: Back-end Intern
 ###Hobby###
 Football & Arsenal
 
-Movie: [My top 10 Picks(...)](sadadsa)
+Movies
