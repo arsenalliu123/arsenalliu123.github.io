@@ -18,7 +18,7 @@ Code on [github](https://github.com/arsenalliu123/cineaste_website)
 
 Based on scrapy, it is a small crawl application to crawl data from douban.
 
-+ ###[als-ython](https://github.com/arsenalliu123/als-python)###
++ ###[als-python](https://github.com/arsenalliu123/als-python)###
 
 Alternative least square algorithm on Python.
 
