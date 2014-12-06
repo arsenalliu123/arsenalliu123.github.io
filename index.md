@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yichen Liu | Homepage
+title: Yichen Liu | Projects
 tagline: 刘逸尘
 ---	
 {% include JB/setup %}
