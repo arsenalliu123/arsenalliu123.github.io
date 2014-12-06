@@ -5,7 +5,7 @@ tagline: 刘逸尘
 ---	
 {% include JB/setup %}
 
-# About Me #
+# Information #
 
 ###Education###
 Carnegie Mellon University:
