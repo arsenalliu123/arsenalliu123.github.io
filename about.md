@@ -7,9 +7,11 @@ tagline: 刘逸尘
 
 ###Education###
 Carnegie Mellon University:
+
 M.S in Electrical and Computer Engineering (Still attending)
 
 Sun Yat-Sen University:
+
 B.S in Computer Science (2010-2014)
 
 ###Work###
