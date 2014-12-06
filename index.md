@@ -5,9 +5,6 @@ tagline: 刘逸尘
 ---	
 {% include JB/setup %}
 
-
-# Projects #
-
 + ###[cineaste](http://cineaste.sinaapp.com)###
 
 Movie recommendation system for [douban](http://movie.douban.com) users, adopting [ALS-WS algorithm](http://www.hpl.hp.com/personal/Robert_Schreiber/papers/2008%20AAIM%20Netflix/netflix_aaim08(submitted).pdf).

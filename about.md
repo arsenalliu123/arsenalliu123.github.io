@@ -5,8 +5,6 @@ tagline: 刘逸尘
 ---	
 {% include JB/setup %}
 
-# Information #
-
 ###Education###
 Carnegie Mellon University:
 M.S in Electrical and Computer Engineering (Still attending)
